@@ -1,0 +1,110 @@
+{
+  "0": {
+    "id": 1,
+    "title": "kelinci",
+    "author": "kurniawan",
+    "year": "2004",
+    "borrowed": false,
+    "borrowTime": 1714574398,
+    "returnTime": 1714574405
+  },
+  "1": {
+    "id": 2,
+    "title": "dede",
+    "author": "dd",
+    "year": "2023",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "2": {
+    "id": 3,
+    "title": "putra",
+    "author": "esa",
+    "year": "2023",
+    "borrowed": false,
+    "borrowTime": 1714571513,
+    "returnTime": 1714571526
+  },
+  "3": {
+    "id": 4,
+    "title": "putra",
+    "author": "agus",
+    "year": "123",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "4": {
+    "id": 6,
+    "title": "esa",
+    "author": "sumanto",
+    "year": "1234",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "5": {
+    "id": 7,
+    "title": "esa",
+    "author": "sumanto",
+    "year": "1234",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "6": {
+    "id": 8,
+    "title": "esa",
+    "author": "sumanto",
+    "year": "1234",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "7": {
+    "id": 11,
+    "title": "beli",
+    "author": "beliajasendiri",
+    "year": "1945",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "8": {
+    "id": 12,
+    "title": "badak",
+    "author": "capkaki3",
+    "year": "2010",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "9": {
+    "id": 13,
+    "title": "drama",
+    "author": "gege",
+    "year": "2023",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  },
+  "10": {
+    "id": 14,
+    "title": "ibuperi jajan seblak",
+    "author": "dokter gigi",
+    "year": "2025",
+    "borrowed": false,
+    "borrowTime": 1714573419,
+    "returnTime": 1714573439
+  },
+  "12": {
+    "id": 16,
+    "title": "kelinci",
+    "author": "kurniawan",
+    "year": "2023",
+    "borrowed": false,
+    "borrowTime": null,
+    "returnTime": null
+  }
+}
